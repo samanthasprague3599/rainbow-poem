@@ -9,4 +9,6 @@ pink
 black
 white
 grey
+teal 
+violet
 unicorns
