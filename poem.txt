@@ -4,3 +4,5 @@ yellow
 green
 blue
 purple
+brown 
+pink
